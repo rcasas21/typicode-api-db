@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+    "urlImg": "greatjob.jpg",
+    "sender": "Alberto",
+    "receiver": "Zambrano",
+    "date": "",
+    "archived": false
+  },
+  {
+    "id": 2,
+    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+    "urlImg": "congratulations.jpg",
+    "sender": "Dani",
+    "receiver": "Zambrano",
+    "date": "",
+    "archived": false
+  },
+  {
+    "id": 3,
+    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+    "urlImg": "greatjob.jpg",
+    "sender": "Acero",
+    "receiver": "Zambrano",
+    "date": "",
+    "archived": false
+  },
+  {
+    "id": 4,
+    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+    "urlImg": "thankyou.jpg",
+    "sender": "Héctor",
+    "receiver": "Acero",
+    "date": "",
+    "archived": false
+  },
+  {
+    "id": 5,
+    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+    "urlImg": "totallyawesome.jpg",
+    "sender": "Lu",
+    "receiver": "Oscar",
+    "date": "",
+    "archived": false
+  },
+  {
+    "id": 6,
+    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+    "urlImg": "totallyawesome.jpg",
+    "sender": "Zambrano",
+    "receiver": "Acero",
+    "date": "",
+    "archived": false
+  }
+]
