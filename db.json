@@ -1,56 +1,109 @@
-[
-  {
-    "id": 1,
-    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-    "urlImg": "greatjob.jpg",
-    "sender": "Alberto",
-    "receiver": "Zambrano",
-    "date": "",
-    "archived": false
-  },
-  {
-    "id": 2,
-    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-    "urlImg": "congratulations.jpg",
-    "sender": "Dani",
-    "receiver": "Zambrano",
-    "date": "",
-    "archived": false
-  },
-  {
-    "id": 3,
-    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-    "urlImg": "greatjob.jpg",
-    "sender": "Acero",
-    "receiver": "Zambrano",
-    "date": "",
-    "archived": false
-  },
-  {
-    "id": 4,
-    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-    "urlImg": "thankyou.jpg",
-    "sender": "Héctor",
-    "receiver": "Acero",
-    "date": "",
-    "archived": false
-  },
-  {
-    "id": 5,
-    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-    "urlImg": "totallyawesome.jpg",
-    "sender": "Lu",
-    "receiver": "Oscar",
-    "date": "",
-    "archived": false
-  },
-  {
-    "id": 6,
-    "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
-    "urlImg": "totallyawesome.jpg",
-    "sender": "Zambrano",
-    "receiver": "Acero",
-    "date": "",
-    "archived": false
-  }
-]
+{
+  "kudos": [
+    {
+      "id": 1,
+      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+      "urlImg": "greatjob.jpg",
+      "sender": "Alberto",
+      "receiver": "Zambrano",
+      "date": "",
+      "archived": false
+    },
+    {
+      "id": 2,
+      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+      "urlImg": "congratulations.jpg",
+      "sender": "Dani",
+      "receiver": "Zambrano",
+      "date": "",
+      "archived": false
+    },
+    {
+      "id": 3,
+      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+      "urlImg": "greatjob.jpg",
+      "sender": "Acero",
+      "receiver": "Zambrano",
+      "date": "",
+      "archived": false
+    },
+    {
+      "id": 4,
+      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+      "urlImg": "thankyou.jpg",
+      "sender": "Héctor",
+      "receiver": "Acero",
+      "date": "",
+      "archived": false
+    },
+    {
+      "id": 5,
+      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+      "urlImg": "totallyawesome.jpg",
+      "sender": "Lu",
+      "receiver": "Oscar",
+      "date": "",
+      "archived": false
+    },
+    {
+      "id": 6,
+      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pe.",
+      "urlImg": "totallyawesome.jpg",
+      "sender": "Zambrano",
+      "receiver": "Acero",
+      "date": "",
+      "archived": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "hector",
+      "email": "kotehector@gmail.com",
+      "password": 123456,
+      "token": "wkioHAIK7zn9TkND%w"
+    },
+    {
+      "id": 2,
+      "username": "zambrano",
+      "email": "zambrano@gmail.com",
+      "password": 123456,
+      "token": "YTo%sD7FIG6V9xdAIp"
+    },
+    {
+      "id": 3,
+      "username": "acero",
+      "email": "acero@gmail.com",
+      "password": 123456,
+      "token": "0bJgRMP0rp@5hfs9LT"
+    },
+    {
+      "id": 4,
+      "username": "lu",
+      "email": "lu@gmail.com",
+      "password": 123456,
+      "token": "ec7OpEXA3#6@G!BAUd"
+    },
+    {
+      "id": 5,
+      "username": "sofia",
+      "email": "sofia@gmail.com",
+      "password": 123456,
+      "token": "t8J3Om#suMdA%yJD8G"
+    },
+    {
+      "id": 6,
+      "username": "vanesa",
+      "email": "vanesa@gmail.com",
+      "password": 123456,
+      "token": "3*ELI^eU#k7R0uJGKg"
+    },
+    {
+      "id": 7,
+      "username": "maria",
+      "email": "maria@gmail.com",
+      "password": 123456,
+      "token": "QgN241m@$7w*eh2Jsn"
+    }
+  ]
+}
